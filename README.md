@@ -1,4 +1,8 @@
 # nature-102
+<<<<<<< HEAD
+=======
+# nature-102
+>>>>>>> a93164a87cb414a265b3c6d6d0a00328f5e84491
 <!DOCTYPE html>
 <html>
 
@@ -29,4 +33,8 @@
       </body>
 
 
+<<<<<<< HEAD
       </html>
+=======
+      </html>
+>>>>>>> a93164a87cb414a265b3c6d6d0a00328f5e84491
