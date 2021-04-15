@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /*console.log('my name is mamoun');
+=======
+console.log('my name is mamoun');
+>>>>>>> 972f0cf67e0a68a5787889fe0de14a849b875b02
 console.log('i live in zarqa');
 
 console.log(111111);
@@ -19,6 +23,7 @@ var time= prompt('please enter the time');
 if(time> 18){document.write(nice);}
 else if(time> 12){document.write('good');}
 
+<<<<<<< HEAD
 else if(time>= 5){document.write('better');}*/
 
 
