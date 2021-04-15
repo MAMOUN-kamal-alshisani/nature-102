@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*console.log('my name is mamoun');
 =======
 console.log('my name is mamoun');
@@ -26,11 +26,11 @@ else if(time> 12){document.write('good');}
 <<<<<<< HEAD
 else if(time>= 5){document.write('better');}*/
 
-
+alert('choose morning or night')
 var dymood = prompt('hi choose day mood that you want!');
 
-while(dymood !== 'morning'  && dymood !=='night')
-{alert('you can choose: morning or night');}
+while(dymood !== 'morning' && dymood !=='night')
+{dymood = prompt('hi choose day mood that you want!');}
 
 var yourchoice;
 
