@@ -23,14 +23,14 @@ var time= prompt('please enter the time');
 if(time> 18){document.write(nice);}
 else if(time> 12){document.write('good');}
 
-<<<<<<< HEAD
+
 else if(time>= 5){document.write('better');}*/
 
-alert('choose morning or night')
+alert('choose morning or night');
 var dymood = prompt('hi choose day mood that you want!');
 
 while(dymood !== 'morning' && dymood !=='night')
-{dymood = prompt('hi choose day mood that you want!');}
+{dymood = prompt('please choose morning or night');}
 
 var yourchoice;
 
@@ -44,3 +44,31 @@ var imgnumber=prompt('how many imgs do you want to see');
 for(var i=0 ; i<= imgnumber; i++){
   document.write(yourchoice);
 }
+
+/*var mylove = prompt('choose pic of love');
+alert('please choose pic1 or pic2');
+
+while (mylove != 'pic1' && mylove != 'pic2') { mylove = prompt('hi choose pic1 or pic2');}
+
+var yourlove;
+if (mylove === 'pic1') { yourlove = '<img src="https://tgeb2017.files.wordpress.com/2020/12/love.jpg">' }
+else if (mylove === 'pic2') { yourlove = '<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/flamingo-love-heart-friends-kiss-royalty-free-image-964441848-1560451061.jpg">' }
+document.write(yourlove);
+
+var imgnumber = prompt('how many pic you want to see');
+for(var i=0; i<= imgnumber; i++)
+{document.write(yourlove);}*/
+/*
+var mycar = prompt('choose car1 or car2');
+
+while (mycar !='car1' && mycar !='car2')
+{mycar=prompt('please choose car1 or car2');}
+
+var yourcar;
+if(mycar ==='car1'){yourcar='<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpiYS6cAwKchpaDCHzCLi4DVR1wkwBdMzeDQ&usqp=CAU">'}
+else if(mycar ==='car2'){yourcar='<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGHYn_EFkRIyFVL_xlvy6FZtj4s1OdnxvzSQ&usqp=CAU">'}
+document.write(yourcar);
+var imgnumber=prompt('how many imgs you want to see');
+for(var i=0 ; i<= imgnumber;i++)
+{document.write=(yourcar);}*/
+

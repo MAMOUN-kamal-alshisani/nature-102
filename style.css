@@ -1,0 +1,22 @@
+header{background-color: beige}
+
+
+
+
+h1{
+  color:lightblue;
+  text-align:center;
+
+}
+nav ul li{display:inline;
+padding:5px;
+margin:10px;
+}
+main article{
+  color: blue;
+  padding:10px;
+  margin:30px;
+}
+main article img{
+  width:100%;
+}
