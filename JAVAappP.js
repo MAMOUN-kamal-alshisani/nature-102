@@ -26,7 +26,6 @@ else if(time> 12){document.write('good');}
 
 else if(time>= 5){document.write('better');}*/
 
-alert('choose morning or night');
 var dymood = prompt('hi choose day mood that you want!');
 
 while(dymood !== 'morning' && dymood !=='night')
@@ -44,6 +43,7 @@ var imgnumber=prompt('how many imgs do you want to see');
 for(var i=0 ; i<= imgnumber; i++){
   document.write(yourchoice);
 }
+
 
 /*var mylove = prompt('choose pic of love');
 alert('please choose pic1 or pic2');
