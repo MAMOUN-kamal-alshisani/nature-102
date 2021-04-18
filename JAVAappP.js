@@ -25,6 +25,7 @@ else if(time> 12){document.write('good');}
 
 
 else if(time>= 5){document.write('better');}*/
+var naturebeauty=function(){
 
 var dymood = prompt('hi choose day mood that you want!');
 
@@ -43,6 +44,9 @@ var imgnumber=prompt('how many imgs do you want to see');
 for(var i=0 ; i<= imgnumber; i++){
   document.write(yourchoice);
 }
+}
+naturebeauty();
+
 
 
 /*var mylove = prompt('choose pic of love');
