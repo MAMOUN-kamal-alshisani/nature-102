@@ -41,7 +41,7 @@ else if (dymood === 'night')
 document.write(yourchoice);
 var imgnumber=prompt('how many imgs do you want to see');
 
-for(var i=0 ; i<= imgnumber; i++){
+for(var i=0 ; i< imgnumber; i++){
   document.write(yourchoice);
 }
 }
